@@ -13,7 +13,7 @@ if (isLoggedIn() && !isProfileComplete()) {
     exit;
 }
 
-
+require_once 'google-auth/google-auth.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">

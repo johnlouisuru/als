@@ -109,7 +109,9 @@ require_once 'google-auth/google-auth.php';
                                 <i class="bi bi-shield-check"></i> Secure authentication powered by Google
                             </small>
                         </div>
+                         <a href="../teacher"><< Go to Teacher Portal</a>
                     </div>
+                   
                 </div>
             </div>
         </div>
